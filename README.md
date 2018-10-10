@@ -20,4 +20,4 @@ NodeJS/Express backend API
 3. `cp .env.example .env`
 4. `nano .env` (Configure .env)
 5. `mongo` (Verify that MongoDB server is running on mongodb://127.0.0.1:27017)
-6. `npm run dev` (Start the server on localhost:3000 (DEFAULT))
+6. `npm run start:dev` (Start the server on localhost:3000)
