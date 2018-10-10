@@ -1,6 +1,6 @@
 # pp-node-backend-api
 
-PlanetPegasus NodeJS backend API server
+NodeJS/Express backend API
 
 ## REQUIREMENTS
 
