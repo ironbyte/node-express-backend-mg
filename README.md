@@ -10,7 +10,7 @@ NodeJS/Express backend API
 
 ### linux package(s)
 
-* NodeJS v8.12.0 (Go to nodejs.org for installation instructions)
+* NodeJS ~v8.12.0 (Go to nodejs.org for installation instructions)
 * MongoDB Community Edition (Go to https://docs.mongodb.com/manual/installation/ for installation instructions)
 
 ## SET UP AND START THE BACKEND SERVER
